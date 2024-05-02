@@ -5,8 +5,8 @@ An experiment for a subset of the internet that is compatible with a happy, ethi
 
 ## Criteria for exclusion: 
 
-- data selling / ad-driven
-
+- data selling / ad-driven revenue
+- paywalling 
 
 ## Pros for inclusion
 
@@ -14,6 +14,16 @@ An experiment for a subset of the internet that is compatible with a happy, ethi
 - non-profit based
 
 ## Websites
+
+### Community-based
 - https://www.inaturalist.org
 - https://meta.wikimedia.org/wiki/Complete_list_of_Wikimedia_projects
+
+### Open Education
 - https://openstax.org/
+
+### Open scientific reporting
+
+- https://www.scielo.br/
+- https://www.biorxiv.org/
+- https://arxiv.org/
